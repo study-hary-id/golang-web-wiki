@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>View: {{.Title}}</title>
+</head>
+<body>
+    <h3>{{.Title}}</h3>
+    <p>[<a href="/edit/{{.Title}}">Edit</a>]</p>
+    <div style="text-align: justify; padding: 0 1rem">
+        {{printf "%s" .Body}}
+    </div>
+</body>
+</html>
