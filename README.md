@@ -5,7 +5,9 @@ This project contains lots of programming concepts using Go programming language
 method, and pointer. This project isn't use 3rd party library, instead use `net/http`,
 `html/template` and `regexp`.
 
-![Gopher witch learning](data/images/witch-learning.svg)
+<p align="center">
+    <img src="data/images/witch-learning.svg" alt="Gopher witch learning">
+</p>
 
 ## <img src="images/crash-dummy.svg" alt="Gopher robo crash" width="24"> Contributing
 
