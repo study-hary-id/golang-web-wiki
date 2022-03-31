@@ -9,12 +9,12 @@ method, and pointer. This project isn't use 3rd party library, instead use `net/
     <img src="data/images/witch-learning.svg" alt="Gopher witch learning">
 </p>
 
-## <img src="images/crash-dummy.svg" alt="Gopher robo crash" width="24"> Contributing
+## <img src="data/images/crash-dummy.svg" alt="Gopher robo crash" width="24"> Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss
 what you would like to change.
 
-## <img src="images/heart-balloon.svg" alt="Gopher heart balloon" width="24"> Credits
+## <img src="data/images/heart-balloon.svg" alt="Gopher heart balloon" width="24"> Credits
 
 The idea was from [Writing Web Application](https://go.dev/doc/articles/wiki/).
 
